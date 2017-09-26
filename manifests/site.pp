@@ -1,6 +1,6 @@
 ## site.pp ##
 
-# Here is a new comment
+# Here is a new comment -- XXXXXXX
 
 # This file (/etc/puppetlabs/puppet/manifests/site.pp) is the main entry point
 # used when an agent connects to a master and asks for an updated configuration.
